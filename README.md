@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey i'm currently here on github to learn the basics of coding java, python, html, etc.👋
 
 <!--
 **Hill7474/Hill7474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
