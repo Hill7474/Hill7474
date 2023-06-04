@@ -1,9 +1,4 @@
 ### Hey i'm currently looking for recommendations & or help to learning the basics of coding java, python, html, etc. My alltime goal is to get involved with cybersecurity. i am also interested in cryptocurrency & blockchain technology. 👋
-<strong>form</strong>
-<form action="/action.php" method="post"><em>Name:</em> <input name="name" type="text" /> <br /> <em>Age</em>: <input max="99" min="1" name="age" step="1" type="number" value="18" /> <br /><select name="gender">
-<option selected="selected" value="male">Male</option>
-<option value="female">Female</option>
-</select><br /> <input checked="checked" name="newsletter" type="radio" value="daily" /> Daily <input name="newsletter" type="radio" value="weekly" /> Weekly<br /> <textarea cols="20" name="comments" rows="5">Comment</textarea><br /> <label><input name="terms" type="checkbox" value="tandc" />Accept terms</label> <br /> <input type="submit" value="Submit" /></form>
 **Hill7474/Hill7474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
