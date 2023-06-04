@@ -1,6 +1,7 @@
 ### Hey i'm currently looking for recommendations & or help to learning the basics of coding java, python, html, etc. My alltime goal is to get involved with cybersecurity. i am also interested in cryptocurrency & blockchain technology. 👋
-
-<!--
+2 things i love
+<h1>my kids</h1>
+<h2>Learning</h2>
 **Hill7474/Hill7474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
