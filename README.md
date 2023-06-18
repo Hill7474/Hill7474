@@ -1,7 +1,7 @@
-#Welcome to my page 👋
+# Welcome to my page 👋
 
 
-# Hey i'm currently looking for recommendations & or help to learning the basics of coding java, python, html, etc. My alltime goal is to get involved with cybersecurity. i am also interested in cryptocurrency & blockchain technology. Here is a table of the languages I am studying.
+## Hey i'm currently looking for recommendations & or help to learning the basics of coding java, python, html, etc. My alltime goal is to get involved with cybersecurity. i am also interested in cryptocurrency & blockchain technology. Here is a table of the languages I am studying.
 | Rank | Languages |
 |-----:|-----------|
 |     1| Javascript|
