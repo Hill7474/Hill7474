@@ -8,8 +8,8 @@
 |     2| HTML    |
 |     3| CSS       |
 
-Here is a project i have completed on CodePen; 
-https://codepen.io/Hill7474/pen/qBJeypR
+<em> Here is a project i have completed on CodePen; 
+https://codepen.io/Hill7474/pen/qBJeypR </em>
 
 **Hill7474/Hill7474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
