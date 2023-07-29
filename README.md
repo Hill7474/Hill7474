@@ -1,13 +1,16 @@
 # Welcome to my page 👋
 
 
-## Hey i'm currently looking for recommendations to learning the basics of coding java, python, html, etc. My alltime goal is to get involved with cybersecurity. i am also interested in cryptocurrency & blockchain technology. Here is a table of the languages I am studying.
-| Rank | Languages |
-|-----:|-----------|
-|     1| Javascript|
-|     2| HTML    |
-|     3| Typescript       |
-|     3| CSS       |
+## Hey im new here. My alltime goal is to get involved with cybersecurity.
+A table of FreeCodeCamp curriculum completed:
+| FreeCodeCamp        | Curriculum |
+|--------------------:|-----------|
+| ResponsiveWebDesign:|CatPhotoApp|
+| ResponsiveWebDesign:|Cafe Menu|
+
+
+**TBC**
+
 
 <em> Here is a project i have completed on CodePen; 
 https://codepen.io/Hill7474/pen/qBJeypR </em>
