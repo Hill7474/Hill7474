@@ -1,5 +1,5 @@
 ***
-# Learn Badic CSS by Building Cafe Menu
+# Learn Basic CSS by Building Cafe Menu
 ***
 ````html
 
