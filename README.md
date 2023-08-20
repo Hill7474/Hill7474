@@ -10,7 +10,7 @@ A table of FreeCodeCamp curriculum completed:
 |--------------------:|-----------|
 | ResponsiveWebDesign:|CatPhotoApp|
 | ResponsiveWebDesign:|Cafe Menu|
-
+| ResponsiveWebDesign:|CSSColorMarkers|
 
 **TBC**
 
