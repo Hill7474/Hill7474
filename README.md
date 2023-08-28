@@ -13,8 +13,9 @@ A table of FreeCodeCamp curriculum completed:
 | ResponsiveWebDesign:|CSSColorMarkers|
 | ResponsiveWebDesign:|RegistrationForm|
 
-**TO-DO/InProgress**
 
+|TO-DO/InProgress| Projects 
+---------------|-------------
 | RespomsiveWebDesign:| Survey form |
 | ResponsiveWebDesign: | Rothko Style rectangular art pieces |
 | ResponsiveWebDesign: | CSS Flexbox Photo Gallery|
