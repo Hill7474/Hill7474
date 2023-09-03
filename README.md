@@ -8,10 +8,12 @@
 A table of FreeCodeCamp curriculum completed:
 | FreeCodeCamp        | Curriculum |
 |--------------------:|-----------|
-| ResponsiveWebDesign:|CatPhotoApp|
-| ResponsiveWebDesign:|Cafe Menu|
-| ResponsiveWebDesign:|CSSColorMarkers|
-| ResponsiveWebDesign:|RegistrationForm|
+| [x] ResponsiveWebDesign:|CatPhotoApp|
+| [x] ResponsiveWebDesign:|Cafe Menu|
+| [x] ResponsiveWebDesign:|CSSColorMarkers|
+| [x] ResponsiveWebDesign:|
+
+|  [x] RegistrationForm|
 
 
 |TO-DO/InProgress| Projects 
